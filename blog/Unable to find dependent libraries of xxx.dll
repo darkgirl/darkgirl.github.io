@@ -1,0 +1,2 @@
+Unable to find dependent libraries of D:\software\Qt\Qt5.11.1\5.11.1\msvc2017_64\bin\Qt5JsonSerializer.dll :Cannot open 'D:/software/Qt/Qt5.11.1/5.11.1/msvc2017_64/bin/Qt5JsonSerializer.dll':
+使用windeployqt.exe发布Qt项目出现如上提示时, 将额外dll依赖路径临时设置到PATH环境变量中可解决
